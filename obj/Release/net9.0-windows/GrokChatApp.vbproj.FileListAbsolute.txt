@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\GrokChatApp\bin\Release\net9.0-windows\GrokChatApp.exe
+C:\Users\Administrator\Downloads\GrokChatApp\bin\Release\net9.0-windows\GrokChatApp.deps.json
+C:\Users\Administrator\Downloads\GrokChatApp\bin\Release\net9.0-windows\GrokChatApp.runtimeconfig.json
+C:\Users\Administrator\Downloads\GrokChatApp\bin\Release\net9.0-windows\GrokChatApp.dll
+C:\Users\Administrator\Downloads\GrokChatApp\bin\Release\net9.0-windows\GrokChatApp.pdb
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.AssemblyInfo.vb
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.dll
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\refint\GrokChatApp.dll
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.pdb
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\GrokChatApp.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\GrokChatApp\obj\Release\net9.0-windows\ref\GrokChatApp.dll
